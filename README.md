@@ -2,6 +2,8 @@
 
 A TypeScript / HTML5 Canvas rewrite of **VGA Civil War Strategy v1.41**, W.R. Hutsell's 1993 MS-DOS shareware strategic-level wargame of the American Civil War. Zero runtime dependencies; built with Vite.
 
+**Play it:** https://icomppower.github.io/civilwarstrategy/
+
 Play: 1 or 2 players, 40 cities on a point-to-point map, two-month turns from March 1861. Recruit armies, hold and fortify cities, run a fleet, bombard ports, and take the enemy capital before the European powers recognise the Confederacy.
 
 ## Run
